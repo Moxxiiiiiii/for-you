@@ -1,0 +1,67 @@
+body {
+    height: 100vh;
+    margin: 0;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: bisque;
+}
+
+.header {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    color: aquamarine;
+    background-color: rgb(32, 23, 37);
+}
+
+.body-text {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.middle-blocks-container {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.middle-blocks {
+    display: flex;
+    justify-content: space-between;
+    gap: 64px;
+}
+
+.middle-blocks img {
+    border: aquamarine 8px solid;
+    border-radius: 15px;
+}
+
+.middle-block-text {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 175px;
+}
+
+.block-monhun, .block-payday2, .block-atlyss, .block-misc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(32, 23, 37);
+    color: aquamarine;
+
+}
