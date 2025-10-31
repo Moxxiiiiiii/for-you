@@ -25,11 +25,11 @@ body {
     align-items: center;
     border: solid 8px rgb(32, 23, 37);
     background-color: bisque;
-    margin-top: 64px;
+    margin: 64px auto 0 auto;
 }
 
 .body-text p {
-    width: 750px;
+    width: 1400px;
     text-align: center;
     display: flex;
     flex: auto;
