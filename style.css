@@ -82,3 +82,21 @@ body {
     color: aquamarine;
 
 }
+
+
+a {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+a:visited {
+    color: aquamarine;
+}
+
+a:hover {
+    color:white;
+}
+
+audio {
+    margin: 20px;
+}
