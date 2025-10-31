@@ -32,12 +32,12 @@ button {
     border-radius: 15px;
     border: 8px solid aquamarine;
     border-style: outset;
-    background-color: rgbfixed(32, 23, 37);
+    background-color: bisque;
 }
 
 button:hover {
     flex: 1 1 0;
-    background-color: rgb(240, 224, 191);
+    background-color: rgb(255, 255, 255);
     border-width: 6px;
 }
 
