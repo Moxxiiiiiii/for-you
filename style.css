@@ -33,6 +33,7 @@ body {
     justify-content: center;
     align-items: center;
     border: solid 8px rgb(32, 23, 37);
+    border-radius: 15px;
     background-color: bisque;
     width: 1000px;
     margin: auto;
@@ -47,6 +48,7 @@ body {
     background-color: bisque;
     width: 1000px;
     margin: auto;
+    border-radius: 15px;
 }
 
 .middle-blocks {
