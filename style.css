@@ -32,9 +32,10 @@ body {
     flex-flow: column wrap;
     justify-content: center;
     align-items: center;
-    border-top: solid 8px rgb(32, 23, 37);
-    border-bottom: solid 8px rgb(32, 23, 37);
+    border: solid 8px rgb(32, 23, 37);
     background-color: bisque;
+    width: 1000px;
+    margin: auto;
 }
 
 .middle-blocks-container {
@@ -42,9 +43,10 @@ body {
     flex-flow: column wrap;
     justify-content: space-between;
     align-items: center;
-    border-top: solid 8px rgb(32, 23, 37);
-    border-bottom: solid 8px rgb(32, 23, 37);
+    border: solid 8px rgb(32, 23, 37);
     background-color: bisque;
+    width: 1000px;
+    margin: auto;
 }
 
 .middle-blocks {

@@ -26,10 +26,11 @@ body {
     border: solid 8px rgb(32, 23, 37);
     background-color: bisque;
     margin: 64px auto 0 auto;
+    border-radius: 15px;
 }
 
 .body-text p {
-    width: 1400px;
+    width: 1448px;
     text-align: center;
     display: flex;
     flex: auto;
